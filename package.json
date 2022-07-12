@@ -1,5 +1,5 @@
 {
-	"name": "luabundle",
+	"name": "@crashmax/luabundle",
 	"description": "Bundles several Lua files into a single file.",
 	"version": "1.5.0",
 	"author": "Benjamin Dobell @Benjamin-Dobell",
